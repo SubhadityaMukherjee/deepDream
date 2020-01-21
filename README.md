@@ -1,4 +1,7 @@
 # README
--This file is for the deep dream implementation
+-This is an implementation of the deep dream algorithm 
+- https://www.tensorflow.org/tutorials/generative/deepdream
 
-## Full notes will be included in the ipynb file
+## The explanation of the entire code is in the deepDream.ipynb file
+
+> Enjoy
